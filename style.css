@@ -1,0 +1,82 @@
+.header{
+    height: 100px;
+    width: 400px;
+    background-color: #ffce7a;
+}   
+.blue{
+    height: 250px;
+    width: 150px;
+    background-color: #9dddf4;
+}  
+.right{
+    height:250px;
+    width: 250px;
+    background-color: #c2ffc8;
+}
+.footer{
+    height: 100px;
+    width: 400px;
+    background-color: #bea5ff;
+}
+.main{
+    height:250px;
+    width:400px;
+    display: flex;
+}
+.main-text1{
+    width: 150px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 60px;
+    background-color: white;
+    display: grid;
+}
+.main-text2{
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: white;
+    display: grid;
+}
+.main-text3{
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: white;
+    display: grid;
+}  
+.pink{
+    width: 140px;
+    height: 40px;
+    background-color:#ffc2c5;
+    margin:5px 5px 5px 5px;
+}
+.header-text1{
+    width: 40px;
+    height: 40px;
+    background-color:#c2ffc5;
+    margin-top:10px ;
+}
+.header-text2{
+    width: 40px;
+    height: 40px;
+    background-color:#c2ffc5;
+    margin-top:10px ;
+}
+.header-text3{
+    width: 40px;
+    height: 40px;
+    background-color:#c2ffc5; 
+    margin-top:10px ;
+} 
+.header-text{
+    width: 160px;
+    height: 60px;
+    margin-top:20px;
+    margin-right: 20px;
+    float: right;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
